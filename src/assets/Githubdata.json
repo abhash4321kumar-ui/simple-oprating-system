@@ -1,0 +1,45 @@
+
+
+
+[
+  {
+    "image": "https://randomuser.me/api/portraits/men/1.jpg",
+    "title": "Arjun Mehta",
+    "description": "Full-stack developer passionate about building scalable web apps and open-source tools.",
+    "tags": ["React", "Node.js", "MongoDB", "TypeScript"],
+    "githubRepo": "https://github.com/arjunmehta/devboard",
+    "liveLink": "https://devboard.vercel.app"
+  },
+  {
+    "image": "https://randomuser.me/api/portraits/women/2.jpg",
+    "title": "Priya Sharma",
+    "description": "UI/UX designer turned developer. Loves crafting pixel-perfect interfaces with smooth animations.",
+    "tags": ["Figma", "React", "Tailwind", "Framer Motion"],
+    "githubRepo": "https://github.com/priyasharma/portfolio-v2",
+    "liveLink": "https://priyasharma.design"
+  },
+  {
+    "image": "https://randomuser.me/api/portraits/men/3.jpg",
+    "title": "Rohan Verma",
+    "description": "Backend engineer obsessed with system design, databases, and writing clean REST APIs.",
+    "tags": ["Python", "Django", "PostgreSQL", "Docker"],
+    "githubRepo": "https://github.com/rohanverma/api-forge",
+    "liveLink": "https://apiforge.io"
+  },
+  {
+    "image": "https://randomuser.me/api/portraits/women/4.jpg",
+    "title": "Sneha Kapoor",
+    "description": "Machine learning enthusiast working on NLP projects and data visualization dashboards.",
+    "tags": ["Python", "TensorFlow", "Pandas", "D3.js"],
+    "githubRepo": "https://github.com/snehakapoor/nlp-lens",
+    "liveLink": "https://nlplens.streamlit.app"
+  },
+  {
+    "image": "https://randomuser.me/api/portraits/men/5.jpg",
+    "title": "Karan Joshi",
+    "description": "Mobile-first developer building cross-platform apps with a focus on performance and UX.",
+    "tags": ["React Native", "Expo", "Firebase", "Redux"],
+    "githubRepo": "https://github.com/karanjoshi/taskmate-app",
+    "liveLink": "https://taskmate.app"
+  }
+]
