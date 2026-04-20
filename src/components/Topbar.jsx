@@ -23,13 +23,13 @@ const Topbar = () => {
   return (
     <div className='topbar'>
       <div className='side'>
-        <img src='/apple.png' alt='Apple' />
+        <img src='apple.png' alt='Apple' />
         {NAV_ITEMS.map(item => (
           <p key={item}>{item}</p>
         ))}
       </div>
       <div className='side'>
-        <img id='sideleftimg' src='/wifi.png' alt='WiFi' />
+        <img id='sideleftimg' src='wifi.png' alt='WiFi' />
         <span className='topbar-time'>{formatted}</span>
       </div>
     </div>
