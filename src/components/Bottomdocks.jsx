@@ -1,13 +1,13 @@
 import React from 'react'
 
 const DOCK_ITEMS = [
-  { key: 'whatsapp', className: 'whatsapp', src: 'whatsapp.webp', alt: 'WhatsApp', window: null },
-  { key: 'calender', className: 'calender', src: 'calender.png', alt: 'Calendar', window: null },
-  { key: 'notes', className: 'notes', src: 'notes.png', alt: 'Notes', window: 'notes' },
-  { key: 'spotify', className: 'spotify', src: 'spotify.webp', alt: 'Spotify', window: 'spotify' },
-  { key: 'resume', className: 'notes', src: 'pdf.webp', alt: 'Resume', window: 'resume' },
-  { key: 'terminal', className: 'terminal', src: 'terminal.png', alt: 'Terminal', window: 'terminal' },
-  { key: 'github', className: 'github', src: 'github.png', alt: 'GitHub', window: 'github' },
+  { key: 'whatsapp', className: 'whatsapp', src: './whatsapp.webp', alt: 'WhatsApp', window: null },
+  { key: 'calender', className: 'calender', src: './calender.png', alt: 'Calendar', window: null },
+  { key: 'notes', className: 'notes', src: './notes.png', alt: 'Notes', window: 'notes' },
+  { key: 'spotify', className: 'spotify', src: './spotify.webp', alt: 'Spotify', window: 'spotify' },
+  { key: 'resume', className: 'notes', src: './pdf.webp', alt: 'Resume', window: 'resume' },
+  { key: 'terminal', className: 'terminal', src:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnB-0JMgd5EPScG2hO_me_VPTRYixEAjob5A&s', alt: 'Terminal', window: 'terminal' },
+  { key: 'github', className: 'github', src: './github.png', alt: 'GitHub', window: 'github' },
 ]
  
 const Bottomdocks = ({ openclose, setopenclose }) => {
